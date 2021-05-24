@@ -1,7 +1,7 @@
 1. Pick a penguin from Wikipedia's List of Fictional Penguins (https://en.wikipedia.org/wiki/List_of_fictional_penguins) and create an object named myPenguin with properties that represent the information listed in each column on that Wikipedia page (for example: the character's name, origin, and author).
 // your code goes here
 
-`var myPenguin = {
+<code>var myPenguin = {
     {
     name : "Parker",
     origin : "Love Birds",
@@ -18,8 +18,8 @@ var myPenguin = {
     name : "Misha",
     origin : "Penguin Lost",
     author : "Andrey Kurkov"
-},`
-
+},
+</code>
 2. Use console.log() to print the penguin's name to the console as part of a welcome message, like "Hello, I'm a penguin and my name is [NAME HERE]!"
 // your code goes here
 
